@@ -1,10 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
+</div>
+
 Hi 👋 My name is Tushar Nandy
 =============================
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [tnandy68@gmail.com](mailto:tnandy68@gmail.com )
-* 🧠  I'm learning TypeScript
-* ⚡  I'm love to drink coffee , read books , watch anime and going on long walks
+* 🧠  I'm learning TypeScript, React
+* ⚡  I like to explore Japanese Culture and watch psychological documentaries
 
 ### Skills
 
