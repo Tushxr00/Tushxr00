@@ -3,8 +3,8 @@ Hi 👋 My name is Tushar Nandy
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [tnandy68@gmail.com](mailto:tnandy68@gmail.com )
-* 🧠  I'm learning TypeScript, Vue3, React
-* ⚡  I'm love to drink coffee , reading books , watching anime and going on long walks
+* 🧠  I'm learning TypeScript
+* ⚡  I'm love to drink coffee , read books , watch anime and going on long walks
 
 ### Skills
 
