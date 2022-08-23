@@ -7,7 +7,7 @@ Hi 👋 My name is Tushar Nandy
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [tnandy68@gmail.com](mailto:tnandy68@gmail.com )
-* 🧠  I'm learning Nuxt3
+* 🧠  I'm learning Nuxt3 and GraphQL
 * ⚡  I like to explore Japanese Culture and watch psychological documentaries
 
 ### Skills
